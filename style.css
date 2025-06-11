@@ -112,5 +112,17 @@ h1 {
 }
 
 
-
+.blast{
+    display: flex;
+    align-items: center;
+}
+.title{
+    font-size: 25px;
+}
     
+footer{
+    background-color: rgb(0, 0, 0);
+    color:beige;
+    padding: 50px;
+    
+}
